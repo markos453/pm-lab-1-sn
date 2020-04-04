@@ -6,14 +6,14 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Maciej Markowski 
+Numer albumu:               66740  
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Dioda świeci przez cały czas ponieważ nie zdefiniowałem czasu pomiędzy zapaleniem się a zgaśnięciem.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
