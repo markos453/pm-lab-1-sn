@@ -17,15 +17,15 @@ Odpowiedź:  Dioda świeci przez cały czas ponieważ nie zdefiniowałem czasu p
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Brak rezysotra może spowodować spalenie się diody.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Niektóre funkcje można stworzyć za pomocą innej pętli, nie jest to jednak możliwe do zastosowania przy wszystkich.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Zmieni się czas pomiędzy zaświeceniem się diody.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
